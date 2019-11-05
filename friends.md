@@ -20,4 +20,4 @@ Coincidence?
 
 "London baby!"
 
-"We were on a break!" Choose your site! Rachel? Ross?
+"We were on a break!" Choose your side! Rachel? Ross?
