@@ -9,3 +9,5 @@ Joey is an actor and homemate of Chandler.
 Chandler >> everyone else
 Regina Phalange == Pheobe
 
+Everything went down in the series the moment they came to London.
+Coincidence?
