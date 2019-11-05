@@ -3,7 +3,7 @@ A short description about series Friends
 
 ### What do we think about the characters
 
-Ross is terrible
+Ross is terrible x2
 
 #### There are six characters.
 
@@ -23,3 +23,4 @@ Coincidence?
 
 "We were on a break!" Choose your side! Rachel? Ross?
 
+_definitely Rachel!_ x2
