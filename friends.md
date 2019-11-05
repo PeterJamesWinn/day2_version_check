@@ -7,3 +7,5 @@ Chandler, my second favourite, is supposed to be the funniest one.
 Joey is an actor and homemate of Chandler.
 
 Chandler >> everyone else
+Regina Phalange == Pheobe
+
