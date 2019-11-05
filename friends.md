@@ -8,3 +8,5 @@ Joey is an actor and homemate of Chandler.
 
 this is my contribution, hope you like it: Ross is boring...
 
+Regina Phalange == Pheobe
+
