@@ -12,7 +12,7 @@ Chandler, my second favourite, is supposed to be the funniest one.
 Joey is an actor and homemate of Chandler.
 
 Ross is high school friend of Chandler.
-#  Chandler >> everyone else
+####  Chandler >> everyone else
 - Agreed
 
 Just adding another line for fun!
@@ -34,3 +34,7 @@ Smelly cat! Smelly cat! What are they feeding you?
 Smelly cat! Smelly cat! It's not your fault!
 
 "My eyes! My eyes!"
+
+"Chandler and Monica! Chandler and Monica!"
+
+"I know, I know Joey knows; but Ross doesn't know. So stop screaming!" (Sth like that)
