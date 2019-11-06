@@ -36,3 +36,5 @@ Smelly cat! Smelly cat! It's not your fault!
 "My eyes! My eyes!"
 
 "Chandler and Monica! Chandler and Monica!"
+
+"I know, I know Joey knows; but Ross doesn't know. So stop screaming!" (Sth like that)
