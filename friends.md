@@ -13,6 +13,7 @@ Joey is an actor and homemate of Chandler.
 
 Ross is high school friend of Chandler.
 #  Chandler >> everyone else
+- Agreed
 
 
 Regina Phalange == Pheobe
