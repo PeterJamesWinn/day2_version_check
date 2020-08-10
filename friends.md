@@ -38,3 +38,5 @@ Smelly cat! Smelly cat! It's not your fault!
 "Chandler and Monica! Chandler and Monica!"
 
 "I know, I know Joey knows; but Ross doesn't know. So stop screaming!" (Sth like that)
+
+So this is what you were doing whilst at the Turing Institute!
